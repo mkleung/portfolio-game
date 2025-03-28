@@ -12,7 +12,9 @@ We will use vite for this project as it allows faster install.
 Then go into the project folder and use npm install.
 
 
+# Run the project
 
+`npx vite` to go to localhost
 
 
 
